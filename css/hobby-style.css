@@ -64,3 +64,9 @@ footer {
 footer a {
     color: #ecf0f1;
 }
+
+
+#intro, #applications, #future {
+    position: relative;
+    margin-bottom: 30px;
+}
